@@ -82,13 +82,15 @@ Source code for Statistical Calculator for ANalysis (S.C.A.N.)
    
   <h1> Co-authors </h1>
   <p>
-      <a href='https://github.com/Rain1213'> Anjali Mehta </a>
+      <a href='https://github.com/Rain1213'> Mihir Limbad </a>
+      <br/>
+      <a href='https://github.com/anjalilmehta'> Anjali Mehta </a>
       <br/>
       <a href='https://github.com/Rain1213'> Raghav Modi </a>
       <br/>
       <a href='https://github.com/edgeemperor'> Priya Nayak </a>
       <br/>
-      <a href='https://github.com/Rain1213'> Chandresh Padmani </a>
+      <a href='https://github.com/Chandresh-Padmani'> Chandresh Padmani </a>
   </p>
    
    
