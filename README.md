@@ -91,7 +91,7 @@ Source code for Statistical Calculator for ANalysis (S.C.A.N.)
       <br/>
       <a href='https://github.com/edgeemperor'> Priya Nayak </a>
       <br/>
-      <a href='https://github.com/Rain1213'> Chandresh Padmani </a>]
+      <a href='https://github.com/Rain1213'> Chandresh Padmani </a>
   </p>
    
    
