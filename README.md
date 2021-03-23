@@ -13,33 +13,35 @@ Source code for Statistical Calculator for ANalysis (S.C.A.N.)
   
   <h1> Gallery </h1>
   <p>
-      
+      The landing scene of the application. A list of mathematical formulas and modules are grouped. The user can use the search bar or scroll vertically to find the module of         their choice.
   </p>
   <img src='readme_assets\story_1.png' alt="story_1" width='auto' height='70%'/>
   
   <p>
-      
+      Upon selecting a module, a list of formulas that come under that module are shown. The user can then select the particular formula that they want to use.
   </p>
   <img src='readme_assets\story_2.png' alt="story_2" width='auto' height='20%'/>
   
   <p>
-      
+      Upon selecting a formula, an input screen opens. It is customised according to whether the formula excepts a list of values, a set of fixed variables, etc. The user needs       to enter the formula input values here.
   </p>
   <img src='readme_assets\story_3.png' alt="story_3" width='auto' height='100%'/>
   
   <p>
-      
+      Upon entering the inputs, the formula will process them and the output is shown. The format of the output may be a line-chart, a pie-chart, a bar-chart, or simply the           numerical answer.
   </p>
   <img src='readme_assets\story_4.png' alt="story_4" width='auto' height='100%'/>
   
   <p>
-      
+      Here, the user can perform their analytics and make proper suppositions.
+      <br /> <br />
+      For uninformed users, there are descriptions of how to read the output.
   </p>
   <img src='readme_assets\story_5.png' alt="story_5" width='auto' height='100%'/>
   
   
   <h1> Prerequisites </h1>
-  <a href='https://godotengine.org/download/windows'> Godot game engine ver3.2.1 </a>
+  <a href='https://developer.android.com/studio'> Android Studio </a>
   
   
   
