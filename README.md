@@ -15,7 +15,7 @@ Source code for Statistical Calculator for ANalysis (S.C.A.N.)
   <p>
       
   </p>
-  <img src='readme_assets\story_1.png' alt="story_1" width='70%' height='auto'/>
+  <img src='readme_assets\story_1.png' alt="story_1" width='auto' height='70%'/>
   
   <p>
       
