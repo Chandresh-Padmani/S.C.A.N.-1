@@ -73,7 +73,7 @@ Source code for Statistical Calculator for ANalysis (S.C.A.N.)
   <a href='https://developer.android.com/studio/run'> How to deploy your Android Studio project</a>
    
    
-  <br/><br/> 
+  <br/>
   <h1> Built with </h1>
   <ul>
       <li>
