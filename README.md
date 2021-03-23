@@ -2,7 +2,7 @@
 Source code for Statistical Calculator for ANalysis (S.C.A.N.)
 
   <img src="readme_assets/intro.png" alt="Youtube_trailer" width='100%' height='auto'/>
-  <p align='center'>
+  <p align='justify'>
       The issue of time consumption during analytics is paramount in any organisation, especially after a successful project. Therefore, we intend to aid in analytics by               bringing an android application for quick calculation and study of the result. One simply has to choose the formula, enter their input elements and gather an output. There       are two kinds of formulas, ones which have a graphical output and others which have a numerical output. In formulas having a graphical output, the user has to enter             multiple elements (up to a certain limit). The graphs are user-friendly and flexible. In formulas having a numerical output, the user has to enter standard formula               elements. There are formula descriptions for ease of use. 
   </p>
   
