@@ -20,7 +20,7 @@ Source code for Statistical Calculator for ANalysis (S.C.A.N.)
   <p>
       
   </p>
-  <img src='readme_assets\story_2.png' alt="story_2" width='auto' height='70%'/>
+  <img src='readme_assets\story_2.png' alt="story_2" width='auto' height='50%'/>
   
   <p>
       
