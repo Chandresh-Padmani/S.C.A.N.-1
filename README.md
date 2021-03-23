@@ -47,68 +47,37 @@ Source code for Statistical Calculator for ANalysis (S.C.A.N.)
   
   <h1> Getting Started </h1>
   <p>
-      1. Start up the engine (run the exe file, which in my case is Godot_v3.2.1-stable_win64.exe)
+      1. Start up Android Studio
   </p>
 
   <p>
-      2. Select the 'Import' option 
+      2. Select the 'Open an existing Android Studio project' option. 
   </p>
   <img src='readme_assets\getting_started_1.png' alt="getting_started_1"/>
     
   <p>
-      3. Browse to where the project has been downloaded
-  </p>
-    
-  <p>
-      4. Select the 'project.godot' file, and open it
-  </p>
+      3. Navigate to the folder in your filesystem, where you have unzipped and store the contents of this project. Open it.
+   </p>
   <img src='readme_assets\getting_started_2.png' alt="getting_started_2"/>
     
   <p>
-      5. Press the 'Play' button in the top right
+      4. There are 2 methods to run an application in Android Studio. You can either set up a virtual device for development (Google Pixel 2, in my case) or hook up a mobile              device instead.
+      <br />
+      5. In the 2nd bar from the top, there there is a 'Run app' option. Alternatively, you can use Shift + F10 to run the project. 
   </p>
   <img src='readme_assets\getting_started_3.png' alt="getting_started_3"/>
-    
-  <p>
-      Enjoy! <a style="display: inline" href='https://docs.godotengine.org/en/stable/index.html'>Operating through Godot</a> is a breeze.
-  </p>
   
   
   
   <h1> Deployment </h1>
-  <p>
-      1. Start up the engine. Make sure to pick the correct project.godot file.
-      <br/>
-      2. In the top-left, under the 'Project' section, select subsection 'Export..'. 
-  </p>
-  <img src='readme_assets\deployment_1.png' alt="deployment_1"/>
-
-  <p>
-      3. A window will open. Pick the correct deployment environment (Windows desktop, in this case).
-  </p>
-  <img src='readme_assets\deployment_2.png' alt="deployment_2"/>
-    
-  <p>
-      4. Browse to where you want to deploy the game
-  </p>
-  <img src='readme_assets\deployment_3.png' alt="deployment_3"/>
-    
-  <p>
-      5. Make sure you want to set your desired options here (for example, you may set the deployed application icon here).
-      <br/>
-      6. Deploy it.
-  </p>
-  <img src='readme_assets\deployment_4.png' alt="deployment_4"/>
+  <a href='https://developer.android.com/studio/run'> How to deploy your Android Studio project</a>
    
    
-   
+  <br/><br/> 
   <h1> Built with </h1>
   <ul>
       <li>
-        Godot Engine ver3.2.1
-      </li>
-      <li>
-      Aseprite ver1.1.6
+        Android Studio
       </li>
   </ul>
    
@@ -116,11 +85,13 @@ Source code for Statistical Calculator for ANalysis (S.C.A.N.)
    
   <h1> Co-authors </h1>
   <p>
-      <a href='https://github.com/Rain1213'> Rain1213 </a>
+      <a href='https://github.com/Rain1213'> Anjali Mehta </a>
       <br/>
-      <a href='https://github.com/edgeemperor'> edgeemperor </a>
+      <a href='https://github.com/Rain1213'> Raghav Modi </a>
       <br/>
-      <a href='https://github.com/d35r0n'> d35r0n </a>
+      <a href='https://github.com/edgeemperor'> Priya Nayak </a>
+      <br/>
+      <a href='https://github.com/Rain1213'> Chandresh Padmani </a>]
   </p>
    
    
