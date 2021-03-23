@@ -20,12 +20,12 @@ Source code for Statistical Calculator for ANalysis (S.C.A.N.)
   <p>
       
   </p>
-  <img src='readme_assets\story_2.png' alt="story_2" width='auto' height='40%'/>
+  <img src='readme_assets\story_2.png' alt="story_2" width='auto' height='20%'/>
   
   <p>
       
   </p>
-  <img src='readme_assets\story_3.png' alt="story_3" width='auto' height='80%'/>
+  <img src='readme_assets\story_3.png' alt="story_3" width='auto' height='100%'/>
   
   
   <h1> Prerequisites </h1>
