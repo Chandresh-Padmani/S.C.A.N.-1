@@ -27,32 +27,6 @@ Source code for Statistical Calculator for ANalysis (S.C.A.N.)
   </p>
   <img src='readme_assets\story_3.png' alt="story_3" width='auto' height='70%'/>
   
-  <p>
-      
-  </p>
-  <img src='readme_assets\story_4.png' alt="story_4" width='auto' height='70%'/>
-  
-  <p>
-      
-  </p>
-  <img src='readme_assets\story_5.png' alt="story_5" width='auto' height='70%'/>
-  
-  <p>
-      
-  </p>
-  <img src='readme_assets\story_6.png' alt="story_6" width='auto' height='70%'/>
-  
-  <p>
-      
-  </p>
-  <img src='readme_assets\story_7.png' alt="story_7" width='auto' height='70%'/>
-  
-  <p>
-      
-  </p>
-  <img src='readme_assets\story_8.png' alt="story_8" width='auto' height='70%'/>
-  
-  
   
   <h1> Prerequisites </h1>
   <a href='https://godotengine.org/download/windows'> Godot game engine ver3.2.1 </a>
