@@ -82,11 +82,11 @@ Source code for Statistical Calculator for ANalysis (S.C.A.N.)
    
   <h1> Co-authors </h1>
   <p>
-      <a href='https://github.com/Rain1213'> Mihir Limbad </a>
+      <a href='https://github.com/18CE047'> Mihir Limbad </a>
       <br/>
       <a href='https://github.com/anjalilmehta'> Anjali Mehta </a>
       <br/>
-      <a href='https://github.com/Rain1213'> Raghav Modi </a>
+      <a href='https://github.com/RaghavModi'> Raghav Modi </a>
       <br/>
       <a href='https://github.com/edgeemperor'> Priya Nayak </a>
       <br/>
